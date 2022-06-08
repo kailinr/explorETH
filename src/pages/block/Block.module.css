@@ -1,0 +1,15 @@
+.block {
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  color: purple;
+  font-weight: normal;
+}
+
+.transactions_container {
+  margin-top: 4em;
+  max-width: 35em;
+}
